@@ -11,4 +11,9 @@ package examples;
  */
 public class CouplingExample {
     
+    
+    private String variable;
+    
+    
+    
 }
